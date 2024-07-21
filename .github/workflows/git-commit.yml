@@ -24,7 +24,7 @@ jobs:
 
       - name: Commit/Push
         run: |
-          data >> example.txt
+          date >> example.txt
           git add .
           git commit -m "git-commit"
           git push
