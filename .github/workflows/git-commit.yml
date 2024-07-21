@@ -1,1 +1,7 @@
+name: git-commit
 
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types:
+      - git-commit
