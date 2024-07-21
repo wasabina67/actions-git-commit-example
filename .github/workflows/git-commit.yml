@@ -5,3 +5,7 @@ on:
   repository_dispatch:
     types:
       - git-commit
+
+jobs:
+  git-commit:
+    runs-on: ubuntu-latest
