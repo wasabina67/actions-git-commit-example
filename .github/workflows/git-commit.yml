@@ -26,5 +26,5 @@ jobs:
         run: |
           date >> example.txt
           git add .
-          git commit -m "git-commit"
+          git commit -m "git-commit / $(TZ='Asia/Tokyo' date '+%Y-%m-%d %H:%M:%S %Z')"
           git push
