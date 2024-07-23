@@ -10,6 +10,8 @@ GitHub Actions git commit example
 1. Developer Settings > Fine-grained personal access tokens
 2. Select Repository access & Permissions
 
+![image](https://github.com/user-attachments/assets/45400b2f-c006-4fab-a13e-30e944ddae5b)
+
 #### 2. Set repository secret
 
 ![image](https://github.com/user-attachments/assets/a70d699d-3034-48a4-a9fe-df7d81b13f05)
