@@ -3,6 +3,10 @@ GitHub Actions git commit example
 
 ## Setup
 
+### Repository secret
+
+### .env
+
 ```bash
 cp -p .env.example .env
 ```
