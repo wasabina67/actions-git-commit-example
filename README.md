@@ -5,6 +5,8 @@ GitHub Actions git commit example
 
 ### Repository secret
 
+![image](https://github.com/user-attachments/assets/a70d699d-3034-48a4-a9fe-df7d81b13f05)
+
 ### .env
 
 ```bash
